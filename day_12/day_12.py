@@ -84,3 +84,4 @@ def array_of_seven_numbers():
 	return random_array
 
 print(array_of_seven_numbers())
+
